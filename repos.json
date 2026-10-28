@@ -7,12 +7,6 @@
   "groups": {},
   "repos": [
     {
-      "name": "Fin-CM-NexusZ",
-      "url": "git@github.com:diegonmarcos/Fin-CM-NexusZ.git",
-      "private": false,
-      "doc": "Nexus.z company site (published at /nexus/), moved from front-endeavours a_Companies/nexus (#1224); front-endeavours keeps a symlink to this repo."
-    },
-    {
       "name": "Fin-CM-mqpm",
       "url": "git@github.com:diegonmarcos/Fin-CM-mqpm.git",
       "private": false,

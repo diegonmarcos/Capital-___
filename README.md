@@ -4,7 +4,6 @@ Registry index for the Fin-CM repo family (company sites and finance projects) -
 
 ## Members
 
-- [Fin-CM-NexusZ](https://github.com/diegonmarcos/Fin-CM-NexusZ) - Nexus.z company site (published at /nexus/), moved from front-endeavours a_Companies/nexus (#1224); front-endeavours keeps a symlink to this repo.
 - [Fin-CM-mqpm](https://github.com/diegonmarcos/Fin-CM-mqpm) - MQPM / StochBates: README and deployer wiring skeleton, no content yet (#1224).
 - [Fin-CM-Blmbrg](https://github.com/diegonmarcos/Fin-CM-Blmbrg) - Blmbrg (fin terminal, market watch, news): README and deployer wiring skeleton; the matching front-labtools projects b-Nxs_Blmmbrg/* move here with the labtools split (#1218). #1224.
 
