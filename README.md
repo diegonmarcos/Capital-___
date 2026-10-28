@@ -1,10 +1,11 @@
-# Fin-CM-___
+# Fin-___
 
-Registry index for the Fin-CM repo family (company sites and finance projects) - same model as `CG-___`, `Projects-___` and `cloud-___`. This repo is an INDEX, not a container: it holds `repos.json` (the registry, a subset of _git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the actual clones live as siblings in `~/git/`.
+Registry index for the Fin repo family (formerly Fin-CM-___) (company sites and finance projects) - same model as `CG-___`, `Projects-___` and `cloudy-___`. This repo is an INDEX, not a container: it holds `repos.json` (the registry, a subset of _git-repos-master/repos.json), `clone.sh` (pick which repos to have locally) and one committed relative symlink per member (`<member> -> ../<member>`); the actual clones live as siblings in `~/git/`.
 
 ## Members
 
 - [Fin-CM-mqpm](https://github.com/diegonmarcos/Fin-CM-mqpm) - MQPM / StochBates: README and deployer wiring skeleton, no content yet (#1224).
+- [Fin-Corporate](https://github.com/diegonmarcos/Fin-Corporate) - Corporate finance (Nexus.z, Field Finance, Project Corporate). Created 2026-10-28.
 - [Fin-CM-Blmbrg](https://github.com/diegonmarcos/Fin-CM-Blmbrg) - Blmbrg (fin terminal, market watch, news): README and deployer wiring skeleton; the matching front-labtools projects b-Nxs_Blmmbrg/* move here with the labtools split (#1218). #1224.
 
 ## Usage
