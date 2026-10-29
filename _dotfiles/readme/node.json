@@ -5,6 +5,7 @@
   "label": "Fin-___",
   "code": "3.0",
   "kind": "hub",
+  "variant": "hub",
   "description": "Fin-CM — hub: capital markets (NexusZ, MQPM, Blmbrg)",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/Fin-___",
