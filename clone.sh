@@ -14,7 +14,7 @@
 # This repo is an INDEX, not a container. Clones live outside it (in
 # $CLOUD_GIT_BASE, default ~/git) and appear here as symlinks:
 #
-#     Fin-___/<repo>  ->  ~/git/<repo>
+#     Capital-___/<repo>  ->  ~/git/<repo>
 #
 # GENERATED from _git-repos-master 9_others/templates/hub-clone.sh
 # (node repos-sot.js sync-hub-scripts). DO NOT EDIT here; edit the template.

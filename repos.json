@@ -1,5 +1,5 @@
 {
-  "_doc": "Registry of the Fin-CM project (Fin-CM, master index). A SUBSET of repo_master/repos.json (git-repos-master), narrowed to Fin-CM repo family (company sites and finance projects). Identical name/url/private/doc fields to that superset; the two must not disagree. This repo is an INDEX, not a container - see clone.sh for the clone/link model. Private members are linked only: the index exposes their name, never their content.",
+  "_doc": "Registry of the Capital project (Capital-___, master index). A SUBSET of repo_master/repos.json (git-repos-master), narrowed to the Capital repo family (company sites and finance projects). Identical name/url/private/doc fields to that superset; the two must not disagree. This repo is an INDEX, not a container - see clone.sh for the clone/link model. Private members are linked only: the index exposes their name, never their content.",
   "_schema": "front-repos/v1",
   "base_dir_doc": "Clones live outside this index, as siblings in $CLOUD_GIT_BASE (default ~/git). This repo holds only committed symlinks pointing at them.",
   "base_dir_default": "~/git",
@@ -7,22 +7,22 @@
   "groups": {},
   "repos": [
     {
-      "name": "Fin-CM-mqpm",
-      "url": "git@github.com:diegonmarcos/Fin-CM-mqpm.git",
+      "name": "Capital-Macro-Central-Bank",
+      "url": "git@github.com:diegonmarcos/Capital-Macro-Central-Bank.git",
       "private": false,
       "doc": "MQPM / StochBates: README and deployer wiring skeleton, no content yet (#1224)."
     },
     {
-      "name": "Fin-CM-Blmbrg",
-      "url": "git@github.com:diegonmarcos/Fin-CM-Blmbrg.git",
+      "name": "Capital-Stack-Fin-Terminal",
+      "url": "git@github.com:diegonmarcos/Capital-Stack-Fin-Terminal.git",
       "private": false,
       "doc": "Blmbrg (fin terminal, market watch, news): README and deployer wiring skeleton; the matching front-labtools projects b-Nxs_Blmmbrg/* move here with the labtools split (#1218). #1224."
     },
     {
-      "name": "Fin-Corporate",
-      "url": "git@github.com:diegonmarcos/Fin-Corporate.git",
+      "name": "Capital-Micro-Asset-Management",
+      "url": "git@github.com:diegonmarcos/Capital-Micro-Asset-Management.git",
       "private": false,
-      "doc": "Corporate finance (Nexus.z, Field Finance, Project Corporate); member of the Fin-___ hub. Created 2026-10-28."
+      "doc": "Corporate finance (Nexus.z, Field Finance, Project Corporate); member of the Capital-___ hub. Created 2026-10-28."
     }
   ],
   "_root_doc": "No entries carry a group field - every member links at the root of this index, same as CG and front."

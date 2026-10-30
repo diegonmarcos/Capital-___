@@ -1,14 +1,14 @@
 {
   "schema": "readme-node/v1",
   "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
-  "name": "Fin-___",
-  "label": "Fin-___",
+  "name": "Capital-___",
+  "label": "Capital-___",
   "code": "3.0",
   "kind": "hub",
   "variant": "hub",
-  "description": "Fin-CM — hub: capital markets (NexusZ, MQPM, Blmbrg)",
+  "description": "Capital — hub: capital markets and corporate finance (Macro-Central-Bank, Micro-Asset-Management, Stack-Fin-Terminal)",
   "visibility": "public",
-  "url": "https://github.com/diegonmarcos/Fin-___",
+  "url": "https://github.com/diegonmarcos/Capital-___",
   "developer": "Nexus.z",
   "farm": "3.Capital",
   "breadcrumb": [
@@ -28,24 +28,24 @@
   "members": [
     {
       "code": "3.1.1.1",
-      "name": "Fin-CM-mqpm",
-      "url": "https://github.com/diegonmarcos/Fin-CM-mqpm",
+      "name": "Capital-Macro-Central-Bank",
+      "url": "https://github.com/diegonmarcos/Capital-Macro-Central-Bank",
       "visibility": "public",
       "kind": "repo",
       "description": "MQPM — StochBates and quant projects"
     },
     {
       "code": "3.2.1.1",
-      "name": "Fin-Corporate",
-      "url": "https://github.com/diegonmarcos/Fin-Corporate",
+      "name": "Capital-Micro-Asset-Management",
+      "url": "https://github.com/diegonmarcos/Capital-Micro-Asset-Management",
       "visibility": "public",
       "kind": "repo",
       "description": "Fin: Corporate finance"
     },
     {
       "code": "3.3.1.1",
-      "name": "Fin-CM-Blmbrg",
-      "url": "https://github.com/diegonmarcos/Fin-CM-Blmbrg",
+      "name": "Capital-Stack-Fin-Terminal",
+      "url": "https://github.com/diegonmarcos/Capital-Stack-Fin-Terminal",
       "visibility": "public",
       "kind": "repo",
       "description": "Blmbrg — fin-term, market watch and news"
